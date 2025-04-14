@@ -39,6 +39,9 @@ about:
   license_family: BSD
   license_file: LICENCE.rst
   summary: sphinxcontrib-devhelp is a sphinx extension which outputs Devhelp document
+  description: |
+    This builder produces the same output as the standalone HTML builder, 
+    but also generates GNOME Devhelp support file that allows the GNOME Devhelp reader to view them.
   dev_url: https://github.com/sphinx-doc/sphinxcontrib-devhelp
   doc_url: https://www.sphinx-doc.org/
 
