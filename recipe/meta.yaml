@@ -20,7 +20,7 @@ requirements:
     - pip
     - flit-core >=3.7
   run:
-    - python 3.9
+    - python >=3.9
 
 test:
   requires:
